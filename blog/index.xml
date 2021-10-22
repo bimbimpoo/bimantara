@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on Hugo-profile</title><link>https://hugo-profile.netlify.app/blog/</link><description>Recent content in Blogs on Hugo-profile</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown Syntax</title><link>https://hugo-profile.netlify.app/blog/markdown-syntax/</link><pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate><guid>https://hugo-profile.netlify.app/blog/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description></item><item><title>Emoji Support</title><link>https://hugo-profile.netlify.app/blog/emoji-support/</link><pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate><guid>https://hugo-profile.netlify.app/blog/emoji-support/</guid><description>Emoji can be enabled in a Hugo project in a number of ways.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on Hugo-profile</title><link>https://hugo-profile.netlify.app/blog/</link><description>Recent content in Blogs on Hugo-profile</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 16:41:00 +0000</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>TUGAS PKKK</title><link>https://hugo-profile.netlify.app/blog/tugas-pkkk/</link><pubDate>Fri, 01 Oct 2021 16:41:00 +0000</pubDate><guid>https://hugo-profile.netlify.app/blog/tugas-pkkk/</guid><description>1. A
+2. E
+3. D
+4. A
+5. D
+6. D
+7. C
+8. A
+9. D
+10. A
+1.
+- Dibutuhkan Modal Yang Besar. Untuk melakukan produksi secara massal maka akan dibutuhkan mesin-mesin yang memperlancar produksi.
+- Pekerja Mengalami Penurunan Motivasi. Dalam produksi secara massal tentu efeknya terjadi tingkat produktivitas yang tinggi.
+- Kurang Fleksibel.
+2.
+A. Modal adalah salah satu faktor yang digunakan dalam melakukan
+proses produksi.</description></item><item><title>Markdown Syntax</title><link>https://hugo-profile.netlify.app/blog/markdown-syntax/</link><pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate><guid>https://hugo-profile.netlify.app/blog/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description></item><item><title>Emoji Support</title><link>https://hugo-profile.netlify.app/blog/emoji-support/</link><pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate><guid>https://hugo-profile.netlify.app/blog/emoji-support/</guid><description>Emoji can be enabled in a Hugo project in a number of ways.
 The emojify function can be called directly in templates or Inline Shortcodes.
 To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.
 The Emoji cheat sheet is a useful reference for emoji shorthand codes.
