@@ -42,8 +42,8 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Haii Saya Dwi Satria Bimantara dipanggil Bima."
-  descripe_l2_person: "Saya Lahir di Lumajang pada, 11 Desember 2003,Hoby Saya Menyanyi dan Menari, Cita-cita Saya menjadi Guru Seni"
+  descripe_l1_person: "Haii Saya Dwi Satria Bimantara dipanggil Bima,Hallo, selamat datang di Bio data saya.."
+  descripe_l2_person: ""
   skills:
     - name: Sleep
       percentage: 50
