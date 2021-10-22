@@ -24,7 +24,6 @@ fields:
   name: toc
   label: toc
 pages:
-- website/content/blog/biodata-saya-1.md
 - website/content/blog/biodata-saya-2.md
 - website/content/blog/biodata-saya.md
 - website/content/blog/tugas-pkkk.md
